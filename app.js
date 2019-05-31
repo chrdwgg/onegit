@@ -8,3 +8,7 @@ function func() {
 function dev() {
     console.log('dev');
 }
+
+function noff() {
+    console.log('dev');
+}
