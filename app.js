@@ -4,3 +4,6 @@ function app() {
 function func() {
     app()
 }
+function dev() {
+    console.log('dev');
+}
