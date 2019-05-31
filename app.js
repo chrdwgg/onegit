@@ -4,6 +4,7 @@ function app() {
 function func() {
     app()
 }
-function master() {
-    console.log('master');
+
+function dev() {
+    console.log('dev');
 }
