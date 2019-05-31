@@ -4,3 +4,6 @@ function app() {
 function func() {
     app()
 }
+function master() {
+    console.log('master');
+}
