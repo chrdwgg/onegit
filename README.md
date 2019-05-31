@@ -10,7 +10,7 @@
 	+ --pretty=oneline  一行显示
 
 
-## 2. 时空穿梭
+## 2. 版本管理
 1. 回退到上一个版本：git reset –hard HEAD^
 2. 丢弃工作区的修改：git checkout - FileName
 	1. 修改了工作区文件的内容，想直接丢弃工作区的修改时，用git checkout – file
