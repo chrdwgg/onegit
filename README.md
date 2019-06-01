@@ -3,7 +3,7 @@
 1. 初始化Git仓库：git init
 2. 添加文件：git add FileName
 3. 删除文件：git rm FileName
-4. 提交文件：git commit -m 'mark' Name
+4. 提交文件：git commit -m 'mark'
 5. 查看仓库当天状态：git status
 6. 工作区和上次提交的差异：git diff
 7. 查看历史命令：git reflog
