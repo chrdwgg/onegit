@@ -17,9 +17,9 @@
 ## 2. 版本管理
 1. 回退到上一个版本：git reset –hard HEAD^
 2. 丢弃工作区的修改：git checkout - FileName
-	1. 修改了工作区文件的内容，想直接丢弃工作区的修改时，用git checkout – file
-	2. 不但修改了工作区的内容，还添加到了暂存区(git add)时，想丢弃修改，第一步git reset HEAD <file> ，第二步 git checkout – file
-	3. 提交了不合适的到版本库时，想撤销的本次提交，参考版本回退方法
+	+ 修改了工作区文件的内容，想直接丢弃工作区的修改时，用git checkout – file
+	+ 不但修改了工作区的内容，还添加到了暂存区(git add)时，想丢弃修改，第一步git reset HEAD <file> ，第二步 git checkout – file
+	+ 提交了不合适的到版本库时，想撤销的本次提交，参考版本回退方法
 
 ## 3. 分支管理
 1. 查看分支：git branch
